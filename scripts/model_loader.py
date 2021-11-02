@@ -1,4 +1,4 @@
-# Developed by Mirko J. Rodríguez mirko.rodriguezm@gmail.com
+# Developed by Rosa Gutierrez Caro  rosacarog19@gmail.com
 
 # ------------------------
 # Cargando modelo de disco
